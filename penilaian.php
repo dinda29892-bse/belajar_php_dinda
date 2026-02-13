@@ -3,7 +3,7 @@ $nilai = 85;
 
 echo "<h3> SISTEM PENILAIAN</h3>";
 echo "<hr>";
-echo "Nama: Ahmad Santoso<br>";
+echo "Nama: dinda<br>";
 echo "Nilai: " . $nilai . "<br><br>";
 
 echo "<b>Hasil:</b><br>";
